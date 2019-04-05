@@ -4,3 +4,6 @@ Kelas : PTIK C
 Angkatan : 2010
 
 Nama Mata Kuliah : Struktur Data
+Prodi Teknik Komputer
+Fakultas teknik 
+Universitas Negeri makassar
