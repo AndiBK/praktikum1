@@ -3,4 +3,4 @@ NIm : 102904049
 Kelas : PTIK C
 Angkatan : 2010
 
-Nama MK : Struktur Data
+Nama Mata Kuliah : Struktur Data
